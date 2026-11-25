@@ -5,6 +5,8 @@
 Systems Development student at ETEC Zona Leste, interested in software development and building practical technology solutions.
 
 I’m particularly interested in **web development, mobile applications, backend development, and databases**. I use GitHub to build academic and personal projects, apply what I learn throughout my studies, and explore new technologies.
+E  eu esqueci minha conta logada no PC da ETEC!!!
+👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌
 
 ---
 ## Technologies
